@@ -1,4 +1,4 @@
-This document is also available in [English](./README.md).
+🌐 This document is also available in [English](./README.md).
 
 # Paulo Alain de Moura Quérette
 
@@ -9,7 +9,7 @@ This document is also available in [English](./README.md).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Quérette-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pauloalain)
 [![Python](https://shields.io)](https://github.com)
 [![JavaScript](https://shields.io)](https://github.com)
-[![Data%20Science](https://shields.io)](https://github.com)
+[![Data Science](https://shields.io)](https://github.com)
 
 </div>
 
@@ -144,4 +144,3 @@ Colaboração internacional envolvendo pesquisadores do:
 ### “A tecnologia combinada com a compreensão humana cria as melhores soluções.”
 
 </div>
-
