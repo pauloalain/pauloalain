@@ -2,16 +2,12 @@
 
 # Paulo Alain de Moura Quérette
 
-<div align="center">
+### 💻 Estudante de Engenharia de Software | 📊 Entusiasta de Análise de Dados | 🧠 Pesquisa & Tecnologia
 
-💻 Estudante de Engenharia de Software | 📊 Entusiasta de Análise de Dados | 🧠 Pesquisa & Tecnologia
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Quérette-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pauloalain)
-[![Python](https://shields.io)](https://github.com)
-[![JavaScript](https://shields.io)](https://github.com)
-[![Data Science](https://shields.io)](https://github.com)
-
-</div>
+![LinkedIn](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![Data Science](https://shields.io)
 
 ---
 
