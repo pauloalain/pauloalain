@@ -1,4 +1,4 @@
-This document is also available in [Português](./README.pt-BR.md).
+Este documento também está disponível em [Português](./README.pt-BR.md).
 # Paulo Alain de Moura Quérette
 
 <div align="center">
