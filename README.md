@@ -1,86 +1,146 @@
+# Paulo Alain de Moura Quérette
+
 <div align="center">
 
-# Olá, eu sou o Paulo Alain! 👋
+💻 Software Engineering Student | 📊 Data Analysis Enthusiast | 🧠 Research & Technology
 
-💻 Estudante de Engenharia de Software | 📊 Entusiasta de Análise de Dados | 🧠 Pesquisa & Tecnologia
-
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/pauloalain)
-[![Email](https://shields.io)](mailto:pauloalain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Quérette-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pauloalain)
+[![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)]
+[![Data%20Science](https://img.shields.io/badge/Data%20Science-Interested-success?style=for-the-badge)]
 
 </div>
 
-## 🚀 Sobre Mim
+---
 
-Sou estudante de Engenharia de Software apaixonado por tecnologia, análise de dados, desenvolvimento de sistemas e pesquisa científica. 
+## 🚀 About Me
 
-Minha formação une **Psicologia, Pesquisa Científica e Tecnologia**, o que me dá uma perspectiva multidisciplinar focada em resolução de problemas, pensamento analítico e soluções centradas no ser humano.
+I'm a Software Engineering student passionate about technology, data analysis, software development, and scientific research.
 
-### 📚 O que estou estudando atualmente:
-* 🎓 Bacharelado em Engenharia de Software (Universidade de Vassouras)
-* 🎓 Tecnólogo em Sistemas de Informação (CEDERJ / UFF)
-* 📈 Certificado Profissional de Análise de Dados do Google (Coursera)
+My professional background combines **Psychology**, **Scientific Research**, and **Technology**, giving me a multidisciplinary perspective focused on problem-solving, analytical thinking, and human-centered solutions.
 
-### 🎯 Áreas de interesse para Oportunidades:
-* Desenvolvimento de Software / Estágio
-* Análise de Dados / BI
-* Projetos de Inovação e Automação de Processos
+Currently studying:
+
+- 🎓 Bachelor's Degree in Software Engineering
+- 🎓 Information Systems Technology (CEDERJ/UFF)
+- 📈 Google Data Analytics Professional Certificate
+
+I’m looking for opportunities in:
+
+- Software Development
+- Data Analysis
+- Technology Projects
+- Research & Innovation
+- Process Automation
 
 ---
 
-## 🛠️ Tecnologias e Competências
+## 🛠️ Technologies & Skills
 
-### 💻 Linguagens e Ferramentas
-<div align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Excel" />
-</div>
+### Languages & Technologies
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL (Learning)
+- Git & GitHub
+- Excel
+- SPSS
 
-### 🧠 Conceitos e Soft Skills
-* **Técnicas**: Programação Orientada a Objetos (POO), Análise Estatística (SPSS), Metodologia Científica.
-* **Comportamentais**: Pensamento Crítico, Raciocínio Lógico, Criatividade, Visão Interdisciplinar.
+### Concepts
+- Object-Oriented Programming (OOP)
+- Data Analysis
+- Statistical Analysis
+- Software Development Fundamentals
+- Operating Systems
+- Scientific Research Methodology
 
----
-
-## 🔬 Experiência em Pesquisa (Destaque)
-
-Atuei no projeto de pesquisa em tecnologia assistiva:  
-**“Navegando no Universo Virtual com o Radar Tátil”**
-
-O projeto desenvolveu um dispositivo eletrônico vestível capaz de gerar percepção espacial virtual por meio de vibrações cranianas para pessoas com deficiência visual.
-
-* **Minhas contribuições**: Coleta de dados, tratamento estatístico avançado (Qui-Quadrado de Pearson, ANOVA de Medidas Repetidas, Análise de Acordo Interobservadores) e colaboração na escrita de artigos científicos.
-* **Testes práticos**: Realizados com participantes deficientes visuais no *Instituto Benjamin Constant*.
-* **Escopo Internacional**: Cooperação científica envolvendo pesquisadores do **Brasil 🇧🇷, França 🇫🇷 e Japão 🇯🇵**.
+### Soft Skills
+- Critical Thinking
+- Logical Reasoning
+- Creativity
+- Problem Solving
+- Communication
+- Interdisciplinary Vision
 
 ---
 
-## 🌍 Idiomas
-* **Português**: Nativo 🇧🇷
-* **Inglês**: Avançado/Fluente 🇺🇸
-* **Espanhol**: Intermediário 🇪🇸
-* **Francês**: Básico 🇫🇷
+## 📚 Academic Background
+
+### 🎓 Universidade de Vassouras
+**Bachelor's Degree in Software Engineering**  
+2025 — 2028
+
+### 🎓 CEDERJ / UFF
+**Information Systems Technology**  
+2026 — 2028
+
+### 🎓 Google Data Analytics Professional Certificate
+Coursera — 2026
+
+### 🎓 Federal University of Rio de Janeiro (UFRJ)
+**Psychology Degree**  
+2012 — 2017
 
 ---
 
-## 📫 Contato e Redes
-* 📧 **Email:** pauloalain@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/pauloalain](https://linkedin.com/in/pauloalain)
-* 📍 Maricá, Rio de Janeiro - Brasil
+## 🔬 Research Experience
 
-<br />
+Worked on the assistive technology research project:
+
+### “Navigating the Virtual Universe with the Tactile Radar”
+
+The project focused on creating an electronic device capable of generating virtual spatial perception through vibrations around the head for visually impaired individuals.
+
+### Contributions:
+- Data collection and analysis
+- Statistical treatment using:
+  - Pearson Chi-Square
+  - Repeated Measures ANOVA
+  - Interobserver Agreement Analysis
+- Scientific article collaboration
+- Research with visually impaired participants at Instituto Benjamin Constant
+
+International collaboration involving researchers from:
+- 🇧🇷 Brazil
+- 🇫🇷 France
+- 🇯🇵 Japan
+
+---
+
+## 📊 Areas of Interest
+
+- Data Science
+- Artificial Intelligence
+- Software Engineering
+- Human-Computer Interaction
+- Assistive Technology
+- Scientific Computing
+- Behavioral Technology Research
+
+---
+
+## 🌎 Languages
+
+- Portuguese 🇧🇷
+- English 🇺🇸
+- Spanish 🇪🇸
+- French 🇫🇷
+
+---
+
+## 📫 Contact
+
+- 📧 pauloalain@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/pauloalain
+- 📍 Maricá, Rio de Janeiro - Brazil
+
+---
 
 <div align="center">
-  
-*“Technology combined with human understanding creates better solutions.”*
 
----
-Desenvolvido por Paulo Alain 🚀
+### “Technology combined with human understanding creates better solutions.”
+
 </div>
 <!--
 **pauloalain/pauloalain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
