@@ -4,13 +4,6 @@
 
 ### 💻 Estudante de Engenharia de Software | 📊 Entusiasta de Análise de Dados | 🧠 Pesquisa & Tecnologia
 
-![LinkedIn](https://shields.io)
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![Data Science](https://shields.io)
-
----
-
 ## 🚀 Sobre Mim
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia, análise de dados, desenvolvimento de software e pesquisa científica.
